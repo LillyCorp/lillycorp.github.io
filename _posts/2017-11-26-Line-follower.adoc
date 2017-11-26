@@ -5,4 +5,5 @@
 This is a line follower that was made using an Arduino Uno micro controller
 
 image::linefollower.jpg[]
+
 image::linefollower1.jpg[]
