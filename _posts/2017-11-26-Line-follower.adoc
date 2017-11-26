@@ -1,2 +1,3 @@
 = Line follower
 image::linefollower.jpg[]
+image::linefollower1.jpg[]
