@@ -1,8 +1,8 @@
 = Stashbot
 :published_at: 2017-05-10
 See http://github.com/chrissunny94/greenhouse
-:hp-image: image::stashbot.jpg
-:hp-image: image::stashbot1.jpg
+image::stashbot.jpg[]
+image::stashbot1.jpg[]
 // 
-// :hp-tags: HubPress, Blog, Open_Source,
-// :hp-alt-title: My English Title
+:hp-tags: HubPress, Blog, Open_Source,
+:hp-alt-title: stashbot
