@@ -28,7 +28,7 @@
     "title": "Lillycorp",
     "description": "The joy of creation",
     "logo": ":hp-image: images/lillycorp.jpg",
-    "cover": "",
+    "cover": ":hp-image: images/lillycorp_original.jpg",
     "delay": "",
     "postsPerPage": "",
     "googleAnalytics": "",
