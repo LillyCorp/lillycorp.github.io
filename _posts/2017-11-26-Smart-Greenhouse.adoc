@@ -1,0 +1,3 @@
+= Smart Greenhouse
+
+This is a greenhouse which is controlled from a raspberry pi.
