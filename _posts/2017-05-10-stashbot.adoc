@@ -4,5 +4,5 @@ See http://github.com/chrissunny94/greenhouse
 :hp-image: image::stashbot.jpg
 :hp-image: image::stashbot1.jpg
 // 
-// :hp-tags: HubPress, Blog, Open_Source,
-// :hp-alt-title: My English Title
+:hp-tags: HubPress, Blog, Open_Source,
+:hp-alt-title: stashbot
