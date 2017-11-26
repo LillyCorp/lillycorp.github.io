@@ -1,0 +1,3 @@
+= Project Lilly 
+
+An artificially intelligent robot which is aware of emotions 
