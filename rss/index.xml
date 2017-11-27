@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lillycorp]]></title><description><![CDATA[The joy of creation]]></description><link>https://lillycorp.github.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 27 Nov 2017 03:28:14 GMT</lastBuildDate><atom:link href="https://lillycorp.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Trackme , a wifi based tracking solution]]></title><link>https://lillycorp.github.io/2017/11/26/Trackme-a-wifi-based-tracking-solution.html</link><guid isPermaLink="true">https://lillycorp.github.io/2017/11/26/Trackme-a-wifi-based-tracking-solution.html</guid><dc:creator><![CDATA[CHRIS SUNNY THALIYATH]]></dc:creator><pubDate>Sun, 26 Nov 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Smart Greenhouse]]></title><description><![CDATA[<div class="paragraph">
-<p>This is a greenhouse which is controlled from a raspberry pi.</p>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Lillycorp]]></title><description><![CDATA[The joy of creation]]></description><link>https://lillycorp.github.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 27 Nov 2017 03:31:54 GMT</lastBuildDate><atom:link href="https://lillycorp.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Trackme , a wifi based tracking solution]]></title><link>https://lillycorp.github.io/2017/11/26/Trackme-a-wifi-based-tracking-solution.html</link><guid isPermaLink="true">https://lillycorp.github.io/2017/11/26/Trackme-a-wifi-based-tracking-solution.html</guid><dc:creator><![CDATA[CHRIS SUNNY THALIYATH]]></dc:creator><pubDate>Sun, 26 Nov 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Smart Greenhouse]]></title><description><![CDATA[<div class="paragraph">
+<p>This is a greenhouse which is controlled from a raspberry pi.
+<a href="https://github.com/chrissunny94/greenhouse">Asciidoctor</a></p>
 </div>]]></description><link>https://lillycorp.github.io/2017/11/26/Smart-Greenhouse.html</link><guid isPermaLink="true">https://lillycorp.github.io/2017/11/26/Smart-Greenhouse.html</guid><dc:creator><![CDATA[CHRIS SUNNY THALIYATH]]></dc:creator><pubDate>Sun, 26 Nov 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Project Lilly]]></title><description><![CDATA[<div class="paragraph">
 <p>An artificially intelligent robot which is aware of emotions .</p>
 </div>
@@ -21,7 +22,7 @@
 <img src="https://lillycorp.github.io/images/linefollower1.jpg" alt="linefollower1.jpg">
 </div>
 </div>]]></description><link>https://lillycorp.github.io/2017/11/26/Line-follower.html</link><guid isPermaLink="true">https://lillycorp.github.io/2017/11/26/Line-follower.html</guid><dc:creator><![CDATA[CHRIS SUNNY THALIYATH]]></dc:creator><pubDate>Sun, 26 Nov 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Stashbot]]></title><description><![CDATA[<div class="paragraph">
-<p>This is a raspberry pi controlled robot , powered by powerfull DC motors for Wheels (4WD) and a 2 DOF robotic arm .</p>
+<p><strong>This is a raspberry pi controlled robot , powered by powerfull DC motors for Wheels (4WD) and a 2 DOF robotic arm .</strong></p>
 </div>
 <div class="imageblock">
 <div class="content">
