@@ -11,7 +11,7 @@
   "urls": {
     "site": "https://lillycorp.github.io",
     "hubpress": "https://lillycorp.github.io",
-    "theme": "//lillycorp.github.io/themes/ichi",
+    "theme": "//lillycorp.github.io/themes/uno-zen",
     "images": "https://lillycorp.github.io/images"
   },
   "initialisationConfigComponent": {
