@@ -2,5 +2,6 @@
 // See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
 // :hp-image: /covers/cover.png
 // :published_at: 2019-01-31
-// :hp-tags: HubPress, Blog, Open_Source,
-// :hp-alt-title: My English Title
+// :hp-tags: HubPress, Blog, Open_Source, 
+:hp-alt-title: This is a breif tutorial on how to connect ROS and Sabertooth . Post connecting Sabertooth to PC vai USB , we will use the sabertooth to talk to kangaroo .
+
