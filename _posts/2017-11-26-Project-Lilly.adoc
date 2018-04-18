@@ -1,8 +1,0 @@
-= Project Lilly 
-
-An artificially intelligent robot which is aware of emotions .
-
-Lilly can talk , Lilly can see , Lilly can interact with other devices .
-
-
-We are coupling Lilly with opensource platforms such as ROS , OpenCv, Tensorflow etc
